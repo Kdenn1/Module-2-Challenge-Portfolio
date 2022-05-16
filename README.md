@@ -1,2 +1,2 @@
 # Module-2-Challenge-Portfolio
-this is where the module 2 portfolio assignment is stored
+This is my portfolio which I will be updating whenever I finish a new project and need to add the link :)
